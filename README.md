@@ -1,3 +1,6 @@
+# Introduction to machine learning and data mining
+
+## Project 
 🧠 South African Heart Disease Data Analysis
 
 This repository presents an in-depth analysis of the South African Heart Disease dataset, exploring how various risk factors contribute to coronary heart disease (CHD). The project combines machine learning, statistical analysis, and data visualization to investigate data structure, correlations, and predictive potential.
@@ -42,11 +45,14 @@ Scientific communication and reporting
 
 Python, NumPy, Pandas, Matplotlib, scikit-learn
 
-Group 5
+### Group 5
+
 Authors:
 
-Aleksander Nagaj
-Davide Ventuo
-Filippo Bosi
-Dataset
-South african heart disease
+* Aleksander Nagaj
+* Davide Ventuo
+* Filippo Bosi
+
+### Dataset
+
+[South african heart disease](https://hastie.su.domains/ElemStatLearn/datasets/SAheart.data)
