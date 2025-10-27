@@ -1,5 +1,3 @@
-Introduction to machine learning and data mining
-Project
 🧠 South African Heart Disease Data Analysis
 
 This repository presents an in-depth analysis of the South African Heart Disease dataset, exploring how various risk factors contribute to coronary heart disease (CHD). The project combines machine learning, statistical analysis, and data visualization to investigate data structure, correlations, and predictive potential.
