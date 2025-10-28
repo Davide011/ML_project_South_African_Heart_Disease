@@ -1,4 +1,4 @@
-# Introduction to machine learning and data mining
+# Machine learning and data mining
 
 ## Project 
 🧠 South African Heart Disease Data Analysis
