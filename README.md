@@ -1,5 +1,14 @@
 # Machine learning and data mining
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-ff9900.svg)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Data-Pandas-150458.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Compute-NumPy-013243.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Vis-Matplotlib-282c34.svg)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
+---
+
 ## Project 
 🧠 South African Heart Disease Data Analysis
 
